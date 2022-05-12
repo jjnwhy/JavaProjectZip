@@ -16,8 +16,8 @@ public class MainClass08 {
 
 		String message = "My name is Kimgura";
 		/*
-		 * 1.위의 문자열이 My라는 문자열로 시작하는지 여부(true or false)를 isStart라는 변수에 담아보세요. 2.위의 문자열에서
-		 * i가 문자열의 몇번째 인덱스에 위치하고 있는지를 index라는 변수에 담아보세요.
+		 * 1.위의 문자열이 My라는 문자열로 시작하는지 여부(true or false)를 isStart라는 변수에 담아보세요. 
+		 * 2.위의 문자열에서 i가 문자열의 몇번째 인덱스에 위치하고 있는지를 index라는 변수에 담아보세요.
 		 */
 		boolean isStart = message.startsWith("My");
 		int index = message.indexOf("i");
