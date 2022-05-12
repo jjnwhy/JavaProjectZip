@@ -18,7 +18,7 @@ public class MainClass01 {
 		car.name="benz";
 		obj.setNum(10);
 		obj.setName("무지개");
-		obj.useCar(new Car());
+		obj.useCar(car); //(new Car())
 		
 		// .listenMusic() 메소드를 호출하는 code를 작성해보세요.
 		Radio r = new Radio();

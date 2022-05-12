@@ -10,7 +10,9 @@ package test.mypac;
  */
 public class MyObject {
 	/*
-	 * public : 이 메소드는 어디에서든 접근 가능하다. void : 이 메소드는 어떤 값도 리턴하지 않는다. walk : 메소드명
+	 * public : 이 메소드는 어디에서든 접근 가능하다. 
+	 * void : 이 메소드는 어떤 값도 리턴하지 않는다. 
+	 * walk : 메소드명
 	 * walk() : 이 메소드는 어떤 값도 인자로 전달받지 않는다.
 	 */
 	public void walk() {
